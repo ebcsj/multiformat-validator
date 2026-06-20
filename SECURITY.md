@@ -78,7 +78,7 @@ MultiFormat Validator CLI includes the following security measures:
 
 ### Reporting Vulnerabilities
 
-If you find a security vulnerability, do NOT open a public GitHub issue. Please contact the author through GitHub private messaging.
+If you find a security vulnerability, please open a public GitHub issue or contact the author through GitHub private messaging.
 
 When reporting, please include:
 - Vulnerability description
