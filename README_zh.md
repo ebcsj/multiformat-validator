@@ -471,4 +471,3 @@ rm ~/.multiformat_validator/preferences.json
 pip uninstall multiformat-validator
 ```
 然後刪除專案資料夾。
-
