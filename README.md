@@ -5,6 +5,7 @@ Professional multi-format syntax validation tool. Supports 63 file formats and 5
 [View Changelog](CHANGELOG.md)
 
 > **This project is now fully open-source!** We have received inquiries from schools interested in adopting this tool for educational purposes. To deliver a better experience, we are actively developing and working on adding more exciting features. Stay tuned!
+> For questions, please contact the author through the official GitHub repository or submit a request via Google Forms: https://forms.gle/1ZdqCtdPerYrzuzM7
 
 ## License
 
