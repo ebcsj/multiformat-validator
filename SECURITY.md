@@ -168,7 +168,7 @@ MultiFormat Validator CLI 包含以下安全措施：
 
 ### 回報安全漏洞
 
-如果您發現安全漏洞，請不要公開在 GitHub Issues 中。請透過 GitHub 私訊聯繫作者。
+如果您發現安全漏洞，請公開在 GitHub Issues 中或透過 Google 表單提交要求：https://forms.gle/1ZdqCtdPerYrzuzM7 聯繫作者 Kerby Chow。
 
 回報時請包含：
 - 漏洞描述
