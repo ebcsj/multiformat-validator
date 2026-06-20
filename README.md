@@ -473,4 +473,3 @@ Select `[8]` from the main menu, or find the history file:
 pip uninstall multiformat-validator
 ```
 Then delete the project folder.
-
